@@ -4,7 +4,7 @@ ETL - Extract Transform Load project - We will be creating consolidated movies d
 
 
 Team Members:
-Jay Dhurv
-Dasa Simova
-Shuchi Khandelwal
+Jay Dhurv,
+Dasa Simova,
+Shuchi Khandelwal,
 Meet Kaur
