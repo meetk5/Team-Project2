@@ -1,4 +1,4 @@
-IMDB_id,Title,Year,Rated,Released,Runtime,Genre,Director,Writer,Actors,Language,Country,IMDB_rating,Type
+imdb_id,title,year,rated,released,runtime,genre,director,writer,actors,language,country,imdb_rating,type
 tt0381707,White Chicks,2004,PG-13,23 Jun 2004,109 min,"Comedy, Crime",Keenen Ivory Wayans,"Keenen Ivory Wayans, Shawn Wayans, Marlon Wayans","Marlon Wayans, Shawn Wayans, Busy Philipps",English,United States,5.6,movie
 tt0425210,Lucky Number Slevin,2006,R,07 Apr 2006,110 min,"Crime, Drama, Thriller",Paul McGuigan,Jason Smilovic,"Josh Hartnett, Ben Kingsley, Morgan Freeman",English,"United States, Germany, United Kingdom, Canada",7.7,movie
 tt0413573,Grey's Anatomy,2005–,TV-14,27 Mar 2005,41 min,"Drama, Romance",,Shonda Rhimes,"Ellen Pompeo, Chandra Wilson, James Pickens Jr.",English,United States,7.5,series
