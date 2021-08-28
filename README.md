@@ -4,17 +4,17 @@ ETL - Extract Transform Load project - We will be creating consolidated movies d
 
 ## **Table of Contents**
 
-- [Background & General Info]()
-- [Technologies]()
-- [ETL Process]()
-  - [Step 1: Extract]()
-  - [Step 2: Transform]()
-  - [Step 3: Load]()
-- [Schema]()
-- [Sample Queries]()
-- [Considerations]()
-- [Status]()
-- [Team Members]()
+- [Background & General Info](https://github.com/meetk5/Team-Project2#background--general-info)
+- [Technologies](https://github.com/meetk5/Team-Project2#technologies)
+- [ETL Process](https://github.com/meetk5/Team-Project2#etl-process)
+  - [Step 1: Extract](https://github.com/meetk5/Team-Project2#step-1-extract)
+  - [Step 2: Transform](https://github.com/meetk5/Team-Project2#step-2-transform)
+  - [Step 3: Load](https://github.com/meetk5/Team-Project2#step-3-load)
+- [Schema](https://github.com/meetk5/Team-Project2#schema)
+- [Sample Queries](https://github.com/meetk5/Team-Project2#sample-queries)
+- [Considerations](https://github.com/meetk5/Team-Project2#considerations)
+- [Status](https://github.com/meetk5/Team-Project2#status)
+- [Team Members](https://github.com/meetk5/Team-Project2#team-members)
 
 ## **Background** & General Info
 
@@ -112,13 +112,34 @@ For this project, we are focusing on three streaming platforms - **Netflix, Disn
 
 We created our Entity Relationship Database using Quick DBD
 
-[![erd]()]()
+![erd](https://github.com/meetk5/Team-Project2/blob/main/Images/erd.png)
 
 ## **Sample Queries**
 
-In order to to see if our user can quickly search, we ran a few queries to demonstrate the working of our relational database.
+In order to to see if our user can quickly search movies through the platforms, we ran a few queries to demonstrate the working of our relational database.
 
+- All movies and shows on Netflix
+![query1](https://github.com/meetk5/Team-Project2/blob/main/Images/query1.jpg)
 
+- Search movies or shows by their title and on which platform they are streaming
+![query2](https://github.com/meetk5/Team-Project2/blob/main/Images/query2.jpg)
+
+- Search movies or shows on all platforms for your favourite actor
+![query3](https://github.com/meetk5/Team-Project2/blob/main/Images/query3.jpg)
+
+- Search movies or shows on all platforms with combination of two actors
+![query4](https://github.com/meetk5/Team-Project2/blob/main/Images/query4.jpg)
+
+![query5](https://github.com/meetk5/Team-Project2/blob/main/Images/query5.jpg)
+
+- Search 2020 movies or shows on all platforms
+![query6](https://github.com/meetk5/Team-Project2/blob/main/Images/query6.jpg)
+
+- Search highest rated movies or shows on all platforms
+![query7](https://github.com/meetk5/Team-Project2/blob/main/Images/query7.jpg)
+
+- Search movies which has both Italian and French languages on all platforms
+![query8](https://github.com/meetk5/Team-Project2/blob/main/Images/query8.jpg)
 
 ## Considerations
 
@@ -135,7 +156,7 @@ Our code and database is such that it can be updated in future if we intend to a
 
 ## **Team Members**
 
-[Dasa Simova](github.com/DasaSimo)
-[Jay Dhruv](github.com/jaybdhruv)
-[Meet Sahni](github.com/meetk5)
-[Shuchi Khandelwal](github.com/shuchiK38)
+- [Dasa Simova](github.com/DasaSimo)
+- [Jay Dhruv](github.com/jaybdhruv)
+- [Meet Sahni](github.com/meetk5)
+- [Shuchi Khandelwal](github.com/shuchiK38)
