@@ -118,27 +118,34 @@ We created our Entity Relationship Database using Quick DBD
 
 In order to to see if our user can quickly search movies through the platforms, we ran a few queries to demonstrate the working of our relational database.
 
-- All movies and shows on Netflix
+- **All movies and shows on Netflix**
+
 ![query1](https://github.com/meetk5/Team-Project2/blob/main/Images/query1.jpg)
 
-- Search movies or shows by their title and on which platform they are streaming
+- **Search movies or shows by their title and on which platform they are streaming**
+
 ![query2](https://github.com/meetk5/Team-Project2/blob/main/Images/query2.jpg)
 
-- Search movies or shows on all platforms for your favourite actor
+- **Search movies or shows on all platforms for your favourite actor**
+
 ![query3](https://github.com/meetk5/Team-Project2/blob/main/Images/query3.jpg)
 
-- Search movies or shows on all platforms with combination of two actors
+- **Search movies or shows on all platforms with combination of two actors**
+
 ![query4](https://github.com/meetk5/Team-Project2/blob/main/Images/query4.jpg)
 
 ![query5](https://github.com/meetk5/Team-Project2/blob/main/Images/query5.jpg)
 
-- Search 2020 movies or shows on all platforms
+- **Search 2020 movies or shows on all platforms**
+
 ![query6](https://github.com/meetk5/Team-Project2/blob/main/Images/query6.jpg)
 
-- Search highest rated movies or shows on all platforms
+- **Search highest rated movies or shows on all platforms**
+
 ![query7](https://github.com/meetk5/Team-Project2/blob/main/Images/query7.jpg)
 
-- Search movies which has both Italian and French languages on all platforms
+- **Search movies which has both Italian and French languages on all platforms**
+
 ![query8](https://github.com/meetk5/Team-Project2/blob/main/Images/query8.jpg)
 
 ## Considerations
