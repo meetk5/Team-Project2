@@ -1,3 +1,5 @@
+# code  for loading movies data from csv files to database using SQLAlchemy
+
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
