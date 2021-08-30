@@ -150,7 +150,7 @@ In order to to see if our user can quickly search movies through the platforms, 
 
 ## Considerations
 
-Our code and database is such that it can be updated in future if we intend to add any new streaming platform and its  movie catalogue. For example, let's say if we want to add HBO Max and all the movies related to that in out database then that can be easily done.
+Our project is Scalable in future if we intend to add new sources and its movies/shows catalogue. For example, let's say if we want to add HBO Max and all the movies related to that in out database then that can be easily done.
 
 - We will extract Imdb_ids and movie titles of HBO Max and see which titles are not there in moviesandshows table. These unique titles will be concatenated with our moviesandshows table.
 - We will define one more entry in source_table for HBO Max along with its platform id
@@ -165,5 +165,5 @@ Our code and database is such that it can be updated in future if we intend to a
 
 - [Dasa Simova](github.com/DasaSimo)
 - [Jay Dhruv](github.com/jaybdhruv)
-- [Meet Sahni](github.com/meetk5)
+- [Meet K Kaur Sahni](github.com/meetk5)
 - [Shuchi Khandelwal](github.com/shuchiK38)
